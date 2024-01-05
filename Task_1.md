@@ -4,6 +4,6 @@ The commands used were:
 2) git add: to add the program file
 3) git status: to check the status of the changes that are committed
 4) git commit -m "": to commit these changes
-5) git remote set-url: to set the location for pushing the file
+5) git remote set-url origin: to set the location for pushing the file
 6) git push origin main: to finally push the code into this repository
    
