@@ -4,6 +4,3 @@ git add  GitHub_task/Employee.csv
 git commit -m "Task 3 completed, added CSV file"
 git push
 git switch -c Temp: to create a new 'Temp' branch
-   
-
- 
