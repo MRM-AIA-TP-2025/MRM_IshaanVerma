@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>chatroom</name>
+  <version>0.0.1</version>
+  <description>The chatroom package</description>
+
+  <!-- Maintainer information -->
+  <maintainer email="your_email@example.com">Your Name</maintainer>
+
+  <!-- License specification -->
+  <license>MIT</license>
+
+  <!-- ROS dependencies -->
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>message_runtime</build_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <exec_depend>your_additional_dependency_1</exec_depend>
+  <exec_depend>your_additional_dependency_2</exec_depend>
+  <exec_depend>your_additional_dependency_3</exec_depend>
+
+  <!-- Other dependencies (if any) -->
+  
+  <!-- ROS dependencies for tests (if any) -->
+
+  <!-- Exporting package information to other packages -->
+  <export>
+    <build_type>catkin</build_type>
+  </export>
+</package>
